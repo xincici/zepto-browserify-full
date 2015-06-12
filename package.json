@@ -1,0 +1,23 @@
+{
+  "name": "zepto-browserify-full",
+  "version": "1.1.6",
+  "description": "a repo make zepto (with all modules in) that can be used with browserify",
+  "main": "zepto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xincici/zepto-browserify-full.git"
+  },
+  "keywords": [
+    "zepto",
+    "browserify"
+  ],
+  "author": "xincici",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xincici/zepto-browserify-full/issues"
+  },
+  "homepage": "https://github.com/xincici/zepto-browserify-full#readme"
+}
